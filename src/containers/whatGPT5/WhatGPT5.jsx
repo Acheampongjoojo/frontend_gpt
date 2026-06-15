@@ -3,7 +3,7 @@ import './WhatGPT5.css'
 const WhatGPT5 = () => {
   return (
     <div>
-      
+      WhatGPT5
     </div>
   )
 }
