@@ -54,6 +54,7 @@
     .gpt3__features-container_feature-text p {
         font-size: 12px;
         line-height: 20px;
+        overflow-wrap: anywhere;
     }
 
     .gpt3__features-container__feature {

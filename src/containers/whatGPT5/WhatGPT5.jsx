@@ -1,6 +1,6 @@
 import React from 'react'
 import './WhatGPT5.css'
-import Features from '../features/Features'
+import Features from '../../components/feature/Feature'
 
 
 const WhatGPT5 = () => {
